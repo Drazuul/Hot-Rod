@@ -14,7 +14,7 @@ It may be worth it to look into Ackermann steering, but for now, just assume dif
 I will also add a bucket seat and a leg well for safer riding, as well as a dedicated wiring bay in the undercarriage
 to manage wires cleanly, probably with a hatch door for maintenance.
 The Barbie Jeep has a 25.6v 50ah LiFePO4 battery, it may be a good idea to split it into two 25ah batteries
-to spread the weight across the body. The regenerative braking seems to be very po
+to spread the weight across the body. The regenerative braking seems to be very strong, that will need to be implemented.
 
 The screws and brackets will be revisited as well, I'm not sure what I will do, but i'm 80% it will
 involve a whole fuckton of loctite. Maybe suspension. Who knows.
